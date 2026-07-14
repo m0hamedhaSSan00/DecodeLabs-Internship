@@ -4,10 +4,18 @@ This repository contains my completed projects for the DecodeLabs Data Analytics
 
 ## Completed Projects
 
-- Project 1: Data Cleaning
+- Project 1: Data Cleaning (Excel)
 - Project 2: Exploratory Data Analysis (EDA)
+- Project 3: SQL Data Analysis (Oracle SQL Developer)
+- Project 4: Data Visualization Dashboard (Power BI)
 
 ## Tools Used
 
 - Microsoft Excel
-- GitHub
+- Oracle SQL Developer
+- Power BI
+- Git & GitHub
+
+## Author
+
+Mohamed Hassan
